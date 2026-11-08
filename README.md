@@ -70,8 +70,8 @@ Successfully set up:
 ### Future Improvement Ideas 
 
 If expanded further, the project could include:
-- Advanced input validation for manual user entries.
-- Saving newly entered manual records back to CSV files.
+- Advanced input validation for manual user entries
+- Saving newly entered manual records back to CSV files
 - Basic data visualization using libraries like Matplotlib to show trends over time
 
 ---
