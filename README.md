@@ -59,7 +59,7 @@ Building this project helped me understand the foundational mechanics behind wri
 
 ## 🚀 Current Status & Future Ideas
 
-### Current Implementation: 
+### Current Implementation 
 
 Successfully set up: 
 - Modular file structure
@@ -67,7 +67,7 @@ Successfully set up:
 - NumPy-based average calculations
 - Initial interactive menu
 
-### Future Improvement Ideas: 
+### Future Improvement Ideas 
 
 If expanded further, the project could include:
 - Advanced input validation for manual user entries.
