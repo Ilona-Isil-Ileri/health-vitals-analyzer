@@ -59,15 +59,17 @@ Building this project helped me understand the foundational mechanics behind wri
 
 ## 🚀 Current Status & Future Ideas
 
-Current Implementation: Successfully set up: 
+### Current Implementation: 
 
+Successfully set up: 
 - Modular file structure
 - CSV data loading
 - NumPy-based average calculations
 - Initial interactive menu
 
-Future Improvement Ideas: If expanded further, the project could include:
+### Future Improvement Ideas: 
 
+If expanded further, the project could include:
 - Advanced input validation for manual user entries.
 - Saving newly entered manual records back to CSV files.
 - Basic data visualization using libraries like Matplotlib to show trends over time
