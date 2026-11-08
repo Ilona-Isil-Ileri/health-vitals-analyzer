@@ -8,7 +8,7 @@ A beginner-friendly Python project built to explore and practice reading, organi
 
 As a medical doctor transitioning into health tech, my goal with this project wasn't just to write lines of code, but to understand how a basic health application comes together: how data is loaded from a CSV file, processed, analyzed using NumPy, and presented through a simple user interface. 
 
-While the current implementation is kept at a foundational, beginner level for learning, the project structure is designed with future extensions in mind (such as more thorough input validation, saving new records in a CSV file, or adding visualizations).
+While the current implementation is kept at a foundational, beginner level for learning, the project structure is designed with future extensions in mind (such as developed input validation, saving new records in a CSV file, or adding visualizations).
 
 ---
 
